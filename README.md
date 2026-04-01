@@ -65,6 +65,11 @@ Each Buddy has 5 core attributes (range: 1–100):
 
 ---
 
+### Share your Buddy
+<img width="1000" height="1260" alt="image" src="https://github.com/user-attachments/assets/bf87591b-eef6-43a0-8d4f-7354b3ed01d4" />
+
+
+
 ## ⚙️ How It Works
 
 ### 🧩 Dual-System Architecture
