@@ -6,6 +6,8 @@
 
 ---
 
+<img width="2660" height="1812" alt="image" src="https://github.com/user-attachments/assets/f92d63c0-09f6-4610-8628-9bec427b19e1" />
+
 ## 🧠 What is Claude Buddy?
 
 [Claude Buddy](https://claudebuddy.app/) is a **Tamagotchi-style AI companion system** designed to bring personality and delight into your coding workflow.
